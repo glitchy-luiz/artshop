@@ -1,7 +1,5 @@
-# Integrantes 3emib
+# Integrante 3emib
 - Luiz Aragão
-- Luiza Ribeiro
-- Nicolle Américo
 
 # Comandos
 - npm i
